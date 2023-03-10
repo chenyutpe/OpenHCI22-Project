@@ -1,5 +1,5 @@
-# OpenHCI22-Project
+# Campus Chicken Crisis: Betting Half of the Future (校園危雞｜賭上未來的二分之一)
 
-校園危雞
+Currently, there is a problem of misclassification in the waste sorting facilities on campus, mainly due to students' lack of knowledge about whether the waste is recyclable or not, despite having environmental awareness. Through the "Campus Chicken Crisis" timed campus tour, students from various schools are encouraged to correctly sort their waste to earn points, and promote correct environmental knowledge on campus.
 
-現今校內垃圾分類場所易發生分類錯誤的問題，主因來自學生即使有環保意識，也未必瞭解該垃圾是否可回收。透過「校園危雞」限時校園巡迴賽，鼓勵各校學生正確分類垃圾類別以獲得積分，並將正確環保知識推廣於校園。
+I am responsible for the parts other than graphic design.

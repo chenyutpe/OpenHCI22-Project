@@ -1,4 +1,6 @@
-# Campus Chicken Crisis: Betting Half of the Future (校園危雞｜賭上未來的二分之一)
+# Campus Chicken Crisis: Betting Half of the Future 
+
+## 校園危雞｜賭上未來的二分之一
 
 [Introduction Video](https://youtu.be/LCSyyrT7GcY)
 
